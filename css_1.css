@@ -1,0 +1,44 @@
+*{
+ border-radius: 8px;
+}
+/* ID */
+#header{
+    background-color:rgb(151, 222, 222);
+    padding: 10px;
+    margin-bottom: 10px;
+    }
+
+/* TAG NAME */
+body{
+    background-color: #ddd;
+    color: rgb(116, 116, 176);
+}
+/* CLASS */
+
+.card {
+    padding: 10px;
+    margin-bottom: 10px;
+    font-variant:small-caps;
+    background-color: rgb(181, 222, 208);
+    border: 1px solid black;
+}
+
+.card p{
+ font-size:large;
+}
+
+.html{
+ background-color:rgb(174, 204, 205);
+ font-variant:small-caps;
+ border: 1px solid black;
+}
+
+.css{
+    background-color:azure;
+    border: 1px solid black;
+}
+
+.python{
+    background-color:rgb(226, 231, 247);
+    border: 1px solid black;
+}

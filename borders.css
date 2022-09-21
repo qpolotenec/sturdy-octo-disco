@@ -1,0 +1,7 @@
+.border-1 p{
+border-width: 1px;
+border-style:solid;
+border-color:darkcyan;
+border-radius: 5px;
+padding-bottom: 10px;
+}

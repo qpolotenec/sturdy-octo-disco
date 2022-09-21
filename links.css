@@ -1,0 +1,23 @@
+a {
+    color: cadetblue;
+    text-decoration: none;
+    transition: all .2s;
+}
+
+a:hover {
+    color: blue;
+    font-size: 8rem;
+}
+
+
+.btn {
+    background-color: black;
+    padding: 15px;
+    color: white;
+    border: none;
+    transition: all .2s;
+    cursor: pointer;
+}
+.btn:hover{
+    font-size: 1rem;
+}
